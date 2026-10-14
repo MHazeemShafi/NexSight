@@ -1,0 +1,5 @@
+
+ultralytics
+opencv-contrib-python
+PySide6
+numpy

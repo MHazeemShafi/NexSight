@@ -1,0 +1,16 @@
+.venv/
+__pycache__/
+*.py[cod]
+.env
+
+# Model files
+models/*.onnx
+*.pt
+*.download
+
+# Personal face profiles and generated output
+data/face_profiles.json
+outputs/
+
+# Python and editor files
+.vscode/
